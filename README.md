@@ -1,1 +1,2 @@
-# AI_TRAINING
+#AI TOKEN
+input -> token(encoded and decoded)
